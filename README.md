@@ -28,3 +28,6 @@ Scheduling the ETL pipeline was a pivotal step in ensuring regular updates and d
 To ensure robustness, I incorporated exception handling mechanisms within the functions. This feature allowed the system to manage errors gracefully, thereby enhancing reliability. It’s important to note that I included optional verification steps for loaded data, primarily aimed at debugging and testing purposes. However, these validation processes would only execute if the script wasn't perpetually running for scheduling. If needed, I could stop the script and run this section separately to check for data integrity.
 
 Through this comprehensive process, I not only honed my skills in coding and automation but also gained a deeper understanding of how data pipelines function. Each aspect of the pipeline—from extraction and transformation to loading and scheduling—provided invaluable insight into the data management landscape.
+
+**output**
+<img width="720" height="248" alt="Image" src="https://github.com/user-attachments/assets/979bfbf6-da54-4314-bf61-ba504d14511a" />
