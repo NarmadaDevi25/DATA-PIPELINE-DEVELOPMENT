@@ -30,4 +30,5 @@ To ensure robustness, I incorporated exception handling mechanisms within the fu
 Through this comprehensive process, I not only honed my skills in coding and automation but also gained a deeper understanding of how data pipelines function. Each aspect of the pipeline—from extraction and transformation to loading and scheduling—provided invaluable insight into the data management landscape.
 
 **output**
-<img width="720" height="248" alt="Image" src="https://github.com/user-attachments/assets/979bfbf6-da54-4314-bf61-ba504d14511a" />
+1.<img width="720" height="248" alt="Image" src="https://github.com/user-attachments/assets/979bfbf6-da54-4314-bf61-ba504d14511a" />
+2.<img width="773" height="260" alt="Image" src="https://github.com/user-attachments/assets/cf6adb04-edaf-45a3-9735-7eaab531a320" />
